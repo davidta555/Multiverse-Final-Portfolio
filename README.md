@@ -8,9 +8,12 @@ During my time on the full-stack cloud engineering team as a junior software eng
 For security reasons, I will avoid using any code snippets and rely on descriptions.
 
 ### Durable Skills
-The durable skills contains a README file that outlines my contributions to the firm during my apprenticeship. I have outlined my different positions I have taken on while working at The Firm at gave some insight into the skills I learned while on these assignments.
+The durable skills contains a README file that outlines my contributions to American Express during my apprenticeship. I have outlined my different positions I have taken on while working at The Firm at gave some insight into the skills I learned while on these assignments.
 
-### Techincal Projects
+### Techincal Projects and Certifications
+- Director Approval in Hydra UI
+- Cdaas (content delivery as a service) integration with an annoucement banner in Hydra UI 
+- Google Cloud Digital Leader Training Professional Certificate on Coursera
 
 ## Contact
 
