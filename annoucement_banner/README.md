@@ -1,4 +1,14 @@
-## Project #2
+## Ann
+
+Another features I have work on at American Express is Banner Integration with CDaaS on Hydra PaaS Platform.
+
+This feature will allow Cloud Engineering teams to quickly and easily update the banner text at the top of the Hydra Console through use of the CDaaS tool. Content Delivery as a Service (CDaaS) is the Cloud Solutions content delivery network (CDN). CDaaS is built on NGINX+, providing the ability to offload static web content from a Web application. The banner will be visible from the main page of the Hydra console.
+
+The main audience for this feature are cloud engineering teams and application teams. Cloud Engineering teams (Cloud Ops/Solutions/Product Management) can share important information with application teams with less time and effort. While application teams will benefit by receiving more accurate and up-to-date information about the Hydra platform, including platform stability, and information about new releases and capabilities.
+
+The reasoning behind the need and creation for this feature was the unblocking of the developer workflow. Before this feature, the original process was on project creation, developer would have to wait for their sponsoring director to approve of the project via email. This process might takes days or even weeks depending on availability of the director.
+
+This feature creates a new process by preapproving new projects that have been created and Give a high-level overview of the project purpose
 
 Give a high-level overview of the project purpose
 
