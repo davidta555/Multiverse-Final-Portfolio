@@ -1,18 +1,14 @@
-## Project #3
+## Hydra Playground
 
-Give a high-level overview of the project purpose
+One of features I am currently working on at American Express is the development of a Playground on our cloud platform (Hydra PaaS Platform).
 
-- What are the users?
-- What job does it form for them?
-- What inspired you to make it?
-- What features are the most important?
-- Include relevant screenshots
+The main audience for this feature are bootcamp instructors and newly hired developers participating in bootcamp to learn quickly and try out reliably how services are onboarded, deployed, and managed in Hydra using developer's own pace and sample code. As a bootcamp lab student I want them follows lab instructions for the setup, deployment, and management of sample apps on the playground. As a bootcamp lab instructor I want them to be able to performs lab environment setup tasks like creating accounts, CARID, teams, etc. Also they would be responsible for “resetting/cleanup” of lab environment for the next lab.
+
+In detail, this feature covers, viewing playground project and associated services, deploying services, redeploying services, running services, and viewing and managing pod/deployment information. So, students should be able to view their assigned playground projects and services from Hydra console. Also, students should be able to deploy any of the services in assigned Playground project from a XLR file and they should be able to make changes make changes to service code and redeploy. Students should be able to run assigned services from the Hydra console. Finally, they should be able to view and manage deployment/Pods from Hydra console.
 
 ## Technologies
 
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
+- Golang
 
 ## Competencies
 
