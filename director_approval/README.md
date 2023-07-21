@@ -6,20 +6,11 @@ The main audience for this feature are developers who want to start to create pr
 
 The reasoning behind the need and creation for this feature was the unblocking of the developer workflow. Before this feature, the original process was on project creation, developer would have to wait for their sponsoring director to approve of the project via email. This process might takes days or even weeks depending on availability of the director.
 
-This feature creates a new process by preapproving new projects that have been created and
-Give a high-level overview of the project purpose
-
-- What are the users?
-- What job does it form for them?
-- What inspired you to make it?
-- What features are the most important?
-- Include relevant screenshots
-
 ## Technologies
 
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
+- React
+- Redux
+- Jest
 
 ## Competencies
 
