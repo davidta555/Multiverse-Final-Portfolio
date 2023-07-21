@@ -1,6 +1,6 @@
 ## Banner Integration with CDaaS
 
-Another features I have work on at American Express is Banner Integration with CDaaS on Hydra PaaS Platform.
+One feature I have work on at American Express is Banner Integration with CDaaS on Hydra PaaS Platform.
 
 This feature will allow Cloud Engineering teams to quickly and easily update the banner text at the top of the Hydra Console through use of the CDaaS tool. Content Delivery as a Service (CDaaS) is the Cloud Solutions content delivery network (CDN). CDaaS is built on NGINX+, providing the ability to offload static web content from a Web application. The banner will be visible from the main page of the Hydra console.
 
