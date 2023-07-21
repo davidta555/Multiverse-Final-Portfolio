@@ -1,4 +1,4 @@
-## Ann
+## Banner Integration with CDaaS
 
 Another features I have work on at American Express is Banner Integration with CDaaS on Hydra PaaS Platform.
 
@@ -6,23 +6,14 @@ This feature will allow Cloud Engineering teams to quickly and easily update the
 
 The main audience for this feature are cloud engineering teams and application teams. Cloud Engineering teams (Cloud Ops/Solutions/Product Management) can share important information with application teams with less time and effort. While application teams will benefit by receiving more accurate and up-to-date information about the Hydra platform, including platform stability, and information about new releases and capabilities.
 
-The reasoning behind the need and creation for this feature was the unblocking of the developer workflow. Before this feature, the original process was on project creation, developer would have to wait for their sponsoring director to approve of the project via email. This process might takes days or even weeks depending on availability of the director.
-
-This feature creates a new process by preapproving new projects that have been created and Give a high-level overview of the project purpose
-
-Give a high-level overview of the project purpose
-
-- What are the users?
-- What job does it form for them?
-- What inspired you to make it?
-- What features are the most important?
-- Include relevant screenshots
+The reasoning behind the need and creation for this feature was, originally, information regarding maintenance, outages, migration, etc. were spread through work of mouth and separate pages. So, there were gaps in information and not all teams would be informed in a timely manner. This feature helps all teams to know important information and enables them to plan more effectively.
 
 ## Technologies
 
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
+- React
+- Redux
+- Golang
+- 
 
 ## Competencies
 
