@@ -1,18 +1,10 @@
-## Project #3
+## Google Cloud Digital Leader Training Professional Certificate
 
-Give a high-level overview of the project purpose
-
-- What are the users?
-- What job does it form for them?
-- What inspired you to make it?
-- What features are the most important?
-- Include relevant screenshots
+One of the modules for Multiverse was self-directed. Since one of the goals for the cloud department at American Express was to obtain at least one cloud related certification, I decided on the self-directed module to be the Coursera's Google Cloud Digital Leader Training Professional Certificate. This helped me learn fundamental cloud terminology, learn how cloud technology and data can be leveraged to innovate within organizations, learn to identify Google Cloud products and solutions that support digital transformation, and finally learn to identify key change patterns and Google Cloud products for infrastructure and application modernization. 
 
 ## Technologies
 
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
+- Google Cloud Platform
 
 ## Competencies
 
@@ -32,14 +24,6 @@ Give a high-level overview of the project purpose
 - Emphasize the results of this action for your team or your learning.
 - Connect the competentcy to this project
 
-### JF 1.7 Can follow company, team or client approaches to continuous integration, version and source control
-
-### JF 4.7 Can conduct a range of test types, such as Integration, System, User Acceptance, Non-Functional, Performance and Security testing
-
 ### JF 6.1 Knows how best to communicate using different communication methods and how to adapt appropriately to different audiences
-
-### JF 6.2 Understands how to follow company, team or client approaches to continuous integration, version and source control
-
-### JF 6.6 Shows initiative for solving problems within their own remit, being resourceful when faced with a problem to solve
 
 ### JF 6.7 Communicates effectively in a variety of situations to both a technical and nontechnical audience
