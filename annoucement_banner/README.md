@@ -26,8 +26,6 @@ The reasoning behind the need and creation for this feature was, originally, inf
 - Emphasize the results of this action for your team or your learning.
 - Connect the competentcy to this project
 
-### JF 2.1 Can create and analyze artefacts, such as use cases and/or user stories
-
 ### JF 2.3 Can develop effective user interfaces
 
 ### JF 2.4 Can create simple software designs to effectively communicate understanding of the program
@@ -36,10 +34,10 @@ The reasoning behind the need and creation for this feature was, originally, inf
 
 ### JF 2.7 Effectively manages state for complex User Interfaces
 
-### JF 2.8 Can audit and implement web applications that align with accessibility standards (such as WCAG)
+### JF 4.3 Is able to build, manage and deploy code into the relevant environment
+
+For this UI component, I had the opportunity to 
 
 ### JF 6.3 Able to communicate software solutions and ideas to technical and non-technical stakeholders
-
-### JF 6.4 Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk, and stays motivated and committed when facing challenges
 
 ### JF 6.5 Works collaboratively with a wide range of people in different roles, internally and externally, with a positive attitude to inclusion & diversity
