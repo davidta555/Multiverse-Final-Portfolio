@@ -32,10 +32,4 @@ In detail, this feature covers, viewing playground project and associated servic
 
 ### JF 3.4 Can create a logical and maintainable codebase
 
-### JF 3.5 Can apply algorithms, logic and data structures
-
 ### JF 3.6 Can implement a RESTful API
-
-### JF 3.7 Can implement authentication and authorization to an API
-
-### JF 3.8 Can encrypt sensitive data via hashing
