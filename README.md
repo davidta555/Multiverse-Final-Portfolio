@@ -17,6 +17,7 @@ The durable skills contains a README file that outlines my contributions to Amer
 - Cdaas (content delivery as a service) integration with an annoucement banner in Hydra UI
 - Google Cloud Digital Leader Training Professional Certificate on Coursera
 - Director Approval in Hydra UI
+- Hydra Playground
 
 ## Contact
 
