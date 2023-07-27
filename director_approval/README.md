@@ -6,6 +6,8 @@ The main audience for this feature are developers who want to start to create pr
 
 The reasoning behind the need and creation for this feature was the unblocking of the developer workflow. Before this feature, the original process was on project creation, developer would have to wait for their sponsoring director to approve of the project via email. This process might takes days or even weeks depending on availability of the director.
 
+As a part of this feature I also handled creating test cases and improving code coverage  (JF 4.5 | JF 4.8 | JF 5.1 | JF 5.2 | JF 5.4 | JF 5.6). 
+
 ## Technologies
 
 - React
@@ -13,8 +15,6 @@ The reasoning behind the need and creation for this feature was the unblocking o
 - Jest
 
 ## Competencies
-
-### JF 4.4 Can interpret and implement a given design while remaining compliant with security and maintainability requirements
 
 ### JF 4.5 Can explain relevant and up-to-date software testing frameworks and methodologies
 
